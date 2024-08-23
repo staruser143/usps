@@ -1,12 +1,12 @@
-Yes, Melissa (formerly known as Melissa Data) does support address standardization functionality through their API. They offer a comprehensive suite of data quality and address management tools, including address verification, standardization, and geocoding.
+# Yes, Melissa (formerly known as Melissa Data) does support address standardization functionality through their API. They offer a comprehensive suite of data quality and address management tools, including address verification, standardization, and geocoding.
 
-Here's an overview of how you might use the Melissa Address Verification API with Python:
+# Here's an overview of how you might use the Melissa Address Verification API with Python:
 
-1. First, you'll need to sign up for a Melissa API key.
+# 1. First, you'll need to sign up for a Melissa API key.
 
-2. Then, you can use the `requests` library in Python to make API calls.
+# 2. Then, you can use the `requests` library in Python to make API calls.
 
-Here's a basic example of how to use the Melissa Address Verification API:
+# Here's a basic example of how to use the Melissa Address Verification API:
 
 ```python
 import requests
